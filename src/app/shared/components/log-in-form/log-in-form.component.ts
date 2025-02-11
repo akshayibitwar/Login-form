@@ -16,8 +16,8 @@ export class LogInFormComponent implements OnInit {
   };
 
   logInObj : any ={
-    email : '',
-    password : ''
+    email : 'sa@gmail.com',
+    password : '1234'
   }
 
   constructor() { }
